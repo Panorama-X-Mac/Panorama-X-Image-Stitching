@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://astridduday3108.github.io/.github/panoramax">  
+<a href="https://avadukeenka4488.github.io/.github/panoramax">  
 <img src="https://img.shields.io/badge/GET_Panorama_X-darkgreen?style=for-the-badge&logo=apple" alt="GET Panorama X">  
 </a>  
 </div>  
